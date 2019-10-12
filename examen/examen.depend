@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1570679008 source:c:\users\cristiandmk\desktop\examen\input.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+
+1570678678 c:\users\cristiandmk\desktop\examen\input.h
+
+1570916928 source:c:\users\cristiandmk\desktop\examen\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+	"pelicula.h"
+	"elenco.h"
+
+1570916457 c:\users\cristiandmk\desktop\examen\pelicula.h
+
+1570916985 source:c:\users\cristiandmk\desktop\examen\pelicula.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+	"pelicula.h"
+	"elenco.h"
+
+1570919123 c:\users\cristiandmk\desktop\examen\elenco.h
+
+1570918189 source:c:\users\cristiandmk\desktop\examen\elenco.c
+	"pelicula.h"
+	"input.h"
+	"elenco.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

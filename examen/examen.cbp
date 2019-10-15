@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="actores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="actores.h" />
 		<Unit filename="elenco.c">
 			<Option compilerVar="CC" />
 		</Unit>

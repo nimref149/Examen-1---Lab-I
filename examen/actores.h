@@ -1,0 +1,15 @@
+void agregarActor(eActores actores[],int TA);
+int buscarLibre(eActores[],int);
+void inicializarActores(eActores[],int ta);
+int autoId(eActores[],int tam);
+int buscarIdMayor(eActores[],int tam);
+void modificarActor(eActores[],int);
+int findActorById(eActores[],int,int);
+int menuModificar(eActores[],int,int);
+void mostrarActor(eActores);
+void bajaActor(eActores[], int);
+void mostrarListaActores(eActores[], int);
+void ordenarActoresApellidoNombre(eActores[], int);
+void menuActores(eActores[],int);
+int contadorActores(eActores actores[],int tam);
+void hardcodearActores(eActores[],int);

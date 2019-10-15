@@ -6,6 +6,7 @@
 #include <conio.h>
 #include "input.h"
 #include "pelicula.h"
+#include "actores.h"
 #include "elenco.h"
 #define TP 7
 #define TA 5
@@ -66,13 +67,12 @@ de estilo de la cátedra.
 
 int main()
 {
-
     int opcion;
     ePeliculas peliculas[TP];
     eElenco elencos[TE];
     eGeneros generos[TG];
     eActores actores[TA];
-
+    initPeliculas(peliculas,TP);
     inicializarActores(actores,TA);
     inicializarElencos(elencos,TE);
     hardcodearActores(actores,3);
@@ -86,7 +86,7 @@ int main()
         */
     do
     {
-        getIntValid(&opcion,"Menu abm\n1-Gestion de actores\n2-Gestion de elencos\n","Error",1,3);
+        getIntValid(&opcion,"**Menu de abm**\n1-Gestion de actores\n2-Gestion de elencos\nElija una opcion\n","Error",1,3);
         switch(opcion)
         {
         case 1:
@@ -99,11 +99,11 @@ int main()
             printf("Saliendo del programa");
             break;
         }
-        system("cls");
         system("pause");
+        system("cls");
+
     }
     while(opcion!=3);
 
-            return 0;
-
+    return 0;
 }

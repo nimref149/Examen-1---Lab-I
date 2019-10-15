@@ -146,40 +146,42 @@ int confirm();
  */
 int esSoloLetrasEspacio(char str[]);
 
-//crear funcion alfanumerica que guarde numeros y letras, hardcodeo
-
+/** \brief permite ingresar numeros y letras
+ *
+ * \param str[] char
+ * \return int
+ *
+ */
 int esAlfaNumerico(char str[]);
 
+/** \brief Verifica si lo ingresado se trata de letras y numeros
+ *
+ * \param input char*
+ * \param message[] char
+ * \param eMessage[] char
+ * \param lowLimit int
+ * \param hiLimit int
+ * \return int
+ *
+ */
 int getStringLetrasYnumeros(char* input,char message[],char eMessage[], int lowLimit, int hiLimit);
 
+/** \brief validar entre 2 opcion de caracter
+ *
+ * \param input char*
+ * \param message[] char
+ * \param eMessage[] char
+ * \param char
+ * \param char
+ * \return int
+ *
+ */
 int getCharValidOpciones(char* input,char message[],char eMessage[], char, char);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/** \brief pregunta al usuario si desea continuar s o n
+ *
+ * \return int
+ *
+ */
+int continuar();
 

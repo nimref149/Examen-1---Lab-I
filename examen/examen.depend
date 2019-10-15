@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1570679008 source:c:\users\cristiandmk\desktop\examen\input.c
+1571090650 source:c:\users\cristiandmk\desktop\examen\input.c
 	<stdio.h>
 	<string.h>
 	<stdlib.h>
@@ -8,9 +8,9 @@
 	<conio.h>
 	"input.h"
 
-1570678678 c:\users\cristiandmk\desktop\examen\input.h
+1571123640 c:\users\cristiandmk\desktop\examen\input.h
 
-1570916928 source:c:\users\cristiandmk\desktop\examen\main.c
+1571123073 source:c:\users\cristiandmk\desktop\examen\main.c
 	<stdio.h>
 	<string.h>
 	<stdlib.h>
@@ -19,29 +19,43 @@
 	<conio.h>
 	"input.h"
 	"pelicula.h"
+	"actores.h"
 	"elenco.h"
 
-1570916457 c:\users\cristiandmk\desktop\examen\pelicula.h
+1571123528 c:\users\cristiandmk\desktop\examen\pelicula.h
 
-1570916985 source:c:\users\cristiandmk\desktop\examen\pelicula.c
+1571123245 source:c:\users\cristiandmk\desktop\examen\pelicula.c
 	<stdio.h>
 	<string.h>
 	<stdlib.h>
 	<time.h>
 	<ctype.h>
 	<conio.h>
-	"input.h"
 	"pelicula.h"
+	"actores.h"
+	"input.h"
 	"elenco.h"
 
-1570919123 c:\users\cristiandmk\desktop\examen\elenco.h
+1571123658 c:\users\cristiandmk\desktop\examen\elenco.h
 
-1570918189 source:c:\users\cristiandmk\desktop\examen\elenco.c
+1571117780 source:c:\users\cristiandmk\desktop\examen\elenco.c
 	"pelicula.h"
+	"actores.h"
 	"input.h"
 	"elenco.h"
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<ctype.h>
+
+1571117983 c:\users\cristiandmk\desktop\examen\actores.h
+
+1571118688 source:c:\users\cristiandmk\desktop\examen\actores.c
+	"pelicula.h"
+	"actores.h"
+	"elenco.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
 

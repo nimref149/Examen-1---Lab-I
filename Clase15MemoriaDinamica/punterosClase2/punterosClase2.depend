@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571756580 source:c:\users\alumno\documents\codeblocks\punterosclase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1571757128 c:\users\alumno\documents\codeblocks\punterosclase2\persona.h
+
+1571757137 source:c:\users\alumno\documents\codeblocks\punterosclase2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+

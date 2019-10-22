@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571755351 source:c:\users\alumno\documents\codeblocks\vectoresdinamicos\main.c
+	<stdio.h>
+	<stdlib.h>
+

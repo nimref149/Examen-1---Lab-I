@@ -1,0 +1,26 @@
+#define OCUPADO 1
+#define LIBRE 0
+typedef struct
+{
+    int codigoPelicula;
+    int codigoActor;
+    int valorContrato;
+    int estado;
+} eElenco;
+typedef struct
+{
+    int idGenero;
+    char genero[51];
+} eGeneros;
+
+typedef struct
+{
+    char titulo[31];
+    int codigo;
+    float duracion;
+    int idGenero;
+} ePeliculas;
+void inicializarElencos(eElenco elencos[],int);
+void menuElenco(eElenco elenco[],int,eGeneros generos[],int,ePeliculas peliculas[],int,eActores actores[],int);
+void altaElencos(eElenco elenco[],int tamE,eGeneros generos[],int tamG,ePeliculas peliculas[],int tamP,eActores actores[],int tamA);
+void mostrarListaPeliculas(ePeliculas peliculas[], int tamP,ePeliculas generos[],int tg);

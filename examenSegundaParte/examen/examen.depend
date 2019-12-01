@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1571671472 source:f:\funciones hoy\hoy\examen\actores.c
+	"actores.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571665006 f:\funciones hoy\hoy\examen\actores.h
+
+1571369314 f:\funciones hoy\hoy\examen\input.h
+
+1571698192 source:f:\funciones hoy\hoy\examen\elenco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"actores.h"
+	"pelicula.h"
+	"input.h"
+	"elenco.h"
+
+1571670688 f:\funciones hoy\hoy\examen\pelicula.h
+
+1571697296 f:\funciones hoy\hoy\examen\elenco.h
+
+1571500452 source:f:\funciones hoy\hoy\examen\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+
+1571697096 source:f:\funciones hoy\hoy\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"pelicula.h"
+	"actores.h"
+	"elenco.h"
+
+1571669312 source:f:\funciones hoy\hoy\examen\pelicula.c
+	<stdlib.h>
+	<stdio.h>
+	"pelicula.h"
+	"input.h"
+	<string.h>
+
+1571671472 source:c:\users\cristiandmk\desktop\espacio utn\examen\actores.c
+	"actores.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571842304 c:\users\cristiandmk\desktop\espacio utn\examen\actores.h
+
+1571369314 c:\users\cristiandmk\desktop\espacio utn\examen\input.h
+
+1571839490 source:c:\users\cristiandmk\desktop\espacio utn\examen\elenco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"actores.h"
+	"pelicula.h"
+	"input.h"
+	"elenco.h"
+
+1571841748 c:\users\cristiandmk\desktop\espacio utn\examen\pelicula.h
+
+1571837889 c:\users\cristiandmk\desktop\espacio utn\examen\elenco.h
+
+1571500452 source:c:\users\cristiandmk\desktop\espacio utn\examen\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+
+1571842207 source:c:\users\cristiandmk\desktop\espacio utn\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"pelicula.h"
+	"actores.h"
+	"elenco.h"
+
+1571669312 source:c:\users\cristiandmk\desktop\espacio utn\examen\pelicula.c
+	<stdlib.h>
+	<stdio.h>
+	"pelicula.h"
+	"input.h"
+	<string.h>
+
+1571500452 source:c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+
+1571369314 c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\input.h
+
+1571839490 source:c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\elenco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"actores.h"
+	"pelicula.h"
+	"input.h"
+	"elenco.h"
+
+1571843297 c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\actores.h
+
+1571843295 c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\pelicula.h
+
+1571837889 c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\elenco.h
+
+1571842241 source:c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"pelicula.h"
+	"actores.h"
+	"elenco.h"
+
+1571669312 source:c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\pelicula.c
+	<stdlib.h>
+	<stdio.h>
+	"pelicula.h"
+	"input.h"
+	<string.h>
+
+1573000961 source:c:\users\cristiandmk\desktop\espacio utn\curso 2\parciales\examen\actores.c
+	"actores.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573000961 source:c:\users\cristiandmk\desktop\copia de parcial 1\examen\actores.c
+	"actores.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575155236 c:\users\cristiandmk\desktop\copia de parcial 1\examen\actores.h
+
+1571369314 c:\users\cristiandmk\desktop\copia de parcial 1\examen\input.h
+
+1575160977 source:c:\users\cristiandmk\desktop\copia de parcial 1\examen\elenco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"actores.h"
+	"pelicula.h"
+	"input.h"
+	"elenco.h"
+
+1575161004 c:\users\cristiandmk\desktop\copia de parcial 1\examen\pelicula.h
+
+1575157161 c:\users\cristiandmk\desktop\copia de parcial 1\examen\elenco.h
+
+1571500452 source:c:\users\cristiandmk\desktop\copia de parcial 1\examen\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+
+1575156345 source:c:\users\cristiandmk\desktop\copia de parcial 1\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"pelicula.h"
+	"actores.h"
+	"elenco.h"
+
+1575160862 source:c:\users\cristiandmk\desktop\copia de parcial 1\examen\pelicula.c
+	<stdlib.h>
+	<stdio.h>
+	"pelicula.h"
+	"input.h"
+	<string.h>
+
